@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 def draw_neural_net(ax, left, right, bottom, top, layer_sizes, neuron_colors=None, layer_names=None):
     '''
-    Draw a neural network cartoon using matplotilb.
+    Draw a neural network using matplotilb.
    
     :usage:
         >>> fig = plt.figure(figsize=(12, 12))
