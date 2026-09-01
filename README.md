@@ -2,7 +2,7 @@
 
 This repository contains numPy implementations of fundamental Machine Learning algorithms built entirely from scratch. 
 
-The primary goal of this project is to demystify the "black box" of Machine Learning by manually programming the underlying mathematics, optimization algorithms, and data structures, without relying on high-level frameworks like Scikit-Learn, PyTorch, or TensorFlow.
+The primary goal is to demystify the "black box" of Machine Learning by manually programming the underlying mathematics, optimization algorithms, and data structures, without relying on high-level frameworks like Scikit-Learn, PyTorch, or TensorFlow.
 
 ## Implemented Algorithms
 
@@ -23,4 +23,3 @@ The primary goal of this project is to demystify the "black box" of Machine Lear
 ## In Progress
 
 *   **Support Vector Machines (SVM) & K-Means Clustering**
-    *   Exploring maximal margin classifiers and unsupervised centroid-based clustering.
