@@ -23,3 +23,5 @@ The primary goal is to demystify the "black box" of Machine Learning by manually
 ## In Progress
 
 *   **Support Vector Machines (SVM) & K-Means Clustering**
+
+Support : https://www.dummies.com/article/technology/information-technology/ai/machine-learning/machine-learning-dummies-cheat-sheet-221432/
