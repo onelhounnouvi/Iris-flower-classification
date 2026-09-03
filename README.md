@@ -8,13 +8,7 @@ The primary goal is to demystify the "black box" of Machine Learning by manually
 
 *   **Decision Tree (with Gini Impurity)**
 *   **Random Forest Classifier**
-    *   Ensemble learning architecture.
-    *   Bootstrap aggregating (Bagging) for variance reduction.
-    *   Majority voting system for predictions.
 *   **Multi-Layer Perceptron (Neural Network)**
-    *   Forward and Backward propagation (manual derivation of the chain rule).
-    *   ReLU and Softmax activation functions (with numerical stability tricks).
-    *   Cross-Entropy Loss optimization using gradient descent.
 
 ## In Progress
 
